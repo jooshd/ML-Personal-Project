@@ -33,5 +33,7 @@
   * Decide on a screen based (Computer Vision) or RAM/Memory inspection (State-Based) model to read in information from the game
   * Train model to play the game optimally and win as many games as possible
   * Keep track of evolution of the models through documentation
+* **References:**
+  * https://www.youtube.com/watch?v=IoM5zUI8oFc&t=508s
 
   
